@@ -11,8 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Abhay0018/DSA_LC/tree/master/0283-move-zeroes) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhay0018/DSA_LC/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhay0018/DSA_LC/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhay0018/DSA_LC/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 <!---LeetCode Topics End-->
