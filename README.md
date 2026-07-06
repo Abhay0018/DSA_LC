@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhay0018/DSA_LC/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Abhay0018/DSA_LC/tree/master/0485-max-consecutive-ones) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay0018/DSA_LC/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay0018/DSA_LC/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhay0018/DSA_LC/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Hash Table
 |  |
