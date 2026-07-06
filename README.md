@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Abhay0018/DSA_LC/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1070-product-sales-analysis-iii](https://github.com/Abhay0018/DSA_LC/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
