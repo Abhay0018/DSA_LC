@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhay0018/DSA_LC/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/Abhay0018/DSA_LC/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhay0018/DSA_LC/tree/master/0922-sort-array-by-parity-ii) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Abhay0018/DSA_LC/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay0018/DSA_LC/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Abhay0018/DSA_LC/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhay0018/DSA_LC/tree/master/0922-sort-array-by-parity-ii) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Abhay0018/DSA_LC/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Database
 |  |
 | ------- |
