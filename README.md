@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhay0018/DSA_LC/tree/master/0387-first-unique-character-in-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay0018/DSA_LC/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhay0018/DSA_LC/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhay0018/DSA_LC/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhay0018/DSA_LC/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhay0018/DSA_LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhay0018/DSA_LC/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhay0018/DSA_LC/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhay0018/DSA_LC/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Abhay0018/DSA_LC/tree/master/0073-set-matrix-zeroes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhay0018/DSA_LC/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
