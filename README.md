@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abhay0018/DSA_LC/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Abhay0018/DSA_LC/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Abhay0018/DSA_LC/tree/master/0397-integer-replacement) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Abhay0018/DSA_LC/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## String
 |  |
@@ -89,9 +90,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhay0018/DSA_LC/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay0018/DSA_LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Abhay0018/DSA_LC/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Abhay0018/DSA_LC/tree/master/0397-integer-replacement) |
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Abhay0018/DSA_LC/tree/master/0397-integer-replacement) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Abhay0018/DSA_LC/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Prefix Sum
 |  |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay0018/DSA_LC/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Abhay0018/DSA_LC/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
