@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Abhay0018/DSA_LC/tree/master/0657-robot-return-to-origin) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay0018/DSA_LC/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhay0018/DSA_LC/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [2833-furthest-point-from-origin](https://github.com/Abhay0018/DSA_LC/tree/master/2833-furthest-point-from-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhay0018/DSA_LC/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay0018/DSA_LC/tree/master/0387-first-unique-character-in-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/Abhay0018/DSA_LC/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
