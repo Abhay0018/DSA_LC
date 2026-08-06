@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Abhay0018/DSA_LC/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay0018/DSA_LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Abhay0018/DSA_LC/tree/master/0657-robot-return-to-origin) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay0018/DSA_LC/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Abhay0018/DSA_LC/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhay0018/DSA_LC/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Abhay0018/DSA_LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay0018/DSA_LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhay0018/DSA_LC/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Abhay0018/DSA_LC/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhay0018/DSA_LC/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Abhay0018/DSA_LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhay0018/DSA_LC/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Abhay0018/DSA_LC/tree/master/0905-sort-array-by-parity) |
