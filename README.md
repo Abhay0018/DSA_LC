@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhay0018/DSA_LC/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Abhay0018/DSA_LC/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Abhay0018/DSA_LC/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Abhay0018/DSA_LC/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhay0018/DSA_LC/tree/master/0922-sort-array-by-parity-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Abhay0018/DSA_LC/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abhay0018/DSA_LC/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay0018/DSA_LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Abhay0018/DSA_LC/tree/master/0657-robot-return-to-origin) |
