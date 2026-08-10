@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Abhay0018/DSA_LC/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhay0018/DSA_LC/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay0018/DSA_LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Abhay0018/DSA_LC/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhay0018/DSA_LC/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhay0018/DSA_LC/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Abhay0018/DSA_LC/tree/master/0238-product-of-array-except-self) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhay0018/DSA_LC/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhay0018/DSA_LC/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Abhay0018/DSA_LC/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Abhay0018/DSA_LC/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhay0018/DSA_LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhay0018/DSA_LC/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhay0018/DSA_LC/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
