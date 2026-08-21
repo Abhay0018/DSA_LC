@@ -4,13 +4,16 @@ public:
         int n = nums.size();
         int c = 0;
         int ans = 0;
-        for(int i=0;i<n;i++){
+        int i = 0;
+        while(i<n){
             if(nums[i] == 1){
-                c++;
+                c += 1;
+                ans = max(ans,c);
             }
-            else
+            else{
                 c = 0;
-            ans = max(ans,c);
+            }
+            i++;
         }
         return ans;
     }
