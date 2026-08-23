@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay0018/DSA_LC/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhay0018/DSA_LC/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Abhay0018/DSA_LC/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/Abhay0018/DSA_LC/tree/master/0796-rotate-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Abhay0018/DSA_LC/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abhay0018/DSA_LC/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2833-furthest-point-from-origin](https://github.com/Abhay0018/DSA_LC/tree/master/2833-furthest-point-from-origin) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhay0018/DSA_LC/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Abhay0018/DSA_LC/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
