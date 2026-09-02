@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhay0018/DSA_LC/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Abhay0018/DSA_LC/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Abhay0018/DSA_LC/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Abhay0018/DSA_LC/tree/master/0397-integer-replacement) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhay0018/DSA_LC/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhay0018/DSA_LC/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Abhay0018/DSA_LC/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhay0018/DSA_LC/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhay0018/DSA_LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Abhay0018/DSA_LC/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abhay0018/DSA_LC/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Abhay0018/DSA_LC/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
